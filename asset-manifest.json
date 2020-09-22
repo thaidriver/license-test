@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://thaidriver.github.io/license-test/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "https://thaidriver.github.io/license-test/static/js/main.5e62749e.chunk.js",
-    "main.js.map": "https://thaidriver.github.io/license-test/static/js/main.5e62749e.chunk.js.map",
+    "main.js": "https://thaidriver.github.io/license-test/static/js/main.2b32f6a9.chunk.js",
+    "main.js.map": "https://thaidriver.github.io/license-test/static/js/main.2b32f6a9.chunk.js.map",
     "runtime-main.js": "https://thaidriver.github.io/license-test/static/js/runtime-main.afcbf0c3.js",
     "runtime-main.js.map": "https://thaidriver.github.io/license-test/static/js/runtime-main.afcbf0c3.js.map",
     "static/js/2.ceadc7b3.chunk.js": "https://thaidriver.github.io/license-test/static/js/2.ceadc7b3.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.653bb539.chunk.js": "https://thaidriver.github.io/license-test/static/js/3.653bb539.chunk.js",
     "static/js/3.653bb539.chunk.js.map": "https://thaidriver.github.io/license-test/static/js/3.653bb539.chunk.js.map",
     "index.html": "https://thaidriver.github.io/license-test/index.html",
-    "precache-manifest.6867d11f2aee3a4aa9ccc060cdb3b449.js": "https://thaidriver.github.io/license-test/precache-manifest.6867d11f2aee3a4aa9ccc060cdb3b449.js",
+    "precache-manifest.61d4fc2911373d6ab19da69b101e2bb7.js": "https://thaidriver.github.io/license-test/precache-manifest.61d4fc2911373d6ab19da69b101e2bb7.js",
     "service-worker.js": "https://thaidriver.github.io/license-test/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "https://thaidriver.github.io/license-test/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.ceadc7b3.chunk.js.LICENSE.txt": "https://thaidriver.github.io/license-test/static/js/2.ceadc7b3.chunk.js.LICENSE.txt"
@@ -19,6 +19,6 @@
     "static/js/runtime-main.afcbf0c3.js",
     "static/js/2.ceadc7b3.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.5e62749e.chunk.js"
+    "static/js/main.2b32f6a9.chunk.js"
   ]
 }

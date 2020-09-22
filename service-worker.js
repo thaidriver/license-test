@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://thaidriver.github.io/license-test/precache-manifest.6867d11f2aee3a4aa9ccc060cdb3b449.js"
+  "https://thaidriver.github.io/license-test/precache-manifest.61d4fc2911373d6ab19da69b101e2bb7.js"
 );
 
 self.addEventListener('message', (event) => {
